@@ -1,4 +1,3 @@
-# CS-330
 SNHU CS 330 Comp Graphic and Visualization
 # CS-330 3D Camping Scene
 
